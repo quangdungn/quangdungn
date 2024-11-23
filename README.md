@@ -1,4 +1,6 @@
-<img hight="400" width="500" alt="GIF" align="right" src="https://abimation.com/gifs">
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 - 👋 Hi, I’m @quangdungn
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
