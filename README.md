@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.myportfolio.com/a7dcc6d5ac1134b2d40ac6d1c5552304/1f0a0456-b934-4f28-beee-c47de7308667_rw_1920.gif">
+<img src="https://fs-prod-cdn.nintendo-europe.com/media/images/08_content_images/games_6/wiiu_download_software_4/wiiuds_hollowknight/CI_WiiUDS_HollowKnight_FightFerociousFoes.gif">
 </p>
 - 👋 Hi, I’m @quangdungn
 - 👀 I’m interested in ...
