@@ -1,5 +1,6 @@
+<p align="center">
 <img src="https://giffiles.alphacoders.com/377/37712.gif">
-
+</p>
 - 👋 Hi, I’m @quangdungn
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
