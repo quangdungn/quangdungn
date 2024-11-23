@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm QuangDung Nguyen 👋 I'm a 🚀 VietNam developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+<p align="center">
 <img src="https://fs-prod-cdn.nintendo-europe.com/media/images/08_content_images/games_6/wiiu_download_software_4/wiiuds_hollowknight/CI_WiiUDS_HollowKnight_FightFerociousFoes.gif">
 </p>
 - 👋 Hi, I’m @quangdungn
